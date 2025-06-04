@@ -2,6 +2,15 @@ import React from "react";
 
 const pujas = [
   {
+    name: "श्री सत्यनारायण व्रत कथा पूजन विधि आचार्य दिनेश गर्ग",
+    vidhi: "1.एक चौकी पर वस्त्र बिछाकर उस पर कलश रखें।श्री हरि विष्णु का चित्र रखें।\n2. कमलगट्टा चढ़ाएं\n3. श्रीसूक्त का पाठ करें",
+    chalisa: {
+      text: "ॐ विष्णवे नमः...",
+      audio: "/audio/satyanaran.mp3", // Place in public/audio/
+    },
+    pdf: "/assets/satyanaran.pdf", // Place in public/pdfs/
+  },
+  {
     name: "श्री लक्ष्मी पूजन",
     vidhi: "शुद्धि, आचमन, कलश स्थापना, दीप पूजन, श्रीसूक्त पाठ आदि करें।",
     chalisa: {
