@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "लक्ष्मी पूजा थाली",
+    "price": 3001,
+    "image": "./src/assets/laxmi-thali.jpg"
+  },
+  {
+    "id": 2,
+    "name": "गणेश पूजन थाली",
+    "price": 4001,
+    "image": "./src/assets/ganeshpoojathali.jpg"
+  },
+  {
+    "id": 3,
+    "name": "विवाह पूजा थाली ",
+    "price": 7001,
+    "image": "./src/assets/vivahthali.jpg"
+  },
+
+
+  {
+    "id": 4,
+    "name": "नवग्रह शांति पूजा थाली",
+    "price": 2001,
+    "image": "./src/assets/navgrahsantipoojathali.jpeg",
+    "description": "लाल कपड़े में रखी लक्ष्मीजी की पूजा सामग्री",
+    "usage": "लक्ष्मी पूजन, दीपावली पर विशेष रूप से उपयोगी"
+  },
+  {
+    "id": 5,
+    "name": "गृह प्रवेश पूजा थाली",
+    "price": 5001,
+    "image": "./src/assets/grahpraveshthali.jpeg",
+    "description": "शुद्ध सिंदूर हनुमान पूजन हेतु",
+    "usage": "हनुमानजी की मूर्ति पर चढ़ाने के लिए"
+  },
+  {
+    "id": 6,
+    "name": "सत्यनारायण कथा पूजा थाली",
+    "price": 1101,
+    "image": "./src/assets/satyanarayanthali.jpg",
+    "description": "शुद्ध सिंदूर हनुमान पूजन हेतु",
+    "usage": "हनुमानजी की मूर्ति पर चढ़ाने के लिए"
+  },
+  {
+    "id": 7,
+    "name": "हवन सामग्री थाली ",
+    "price": 2001,
+    "image": "./src/assets/hawansamgrithali.jpg",
+    "description": "शुद्ध सिंदूर हनुमान पूजन हेतु",
+    "usage": "हनुमानजी की मूर्ति पर चढ़ाने के लिए"
+  },
+  {
+    "id": 8,
+    "name": "संतान गोपाल / संतान प्राप्ति पूजा थाली",
+    "price": 8001,
+    "image": "./src/assets/santangopalthali.jpg",
+    "description": "शुद्ध सिंदूर हनुमान पूजन हेतु",
+    "usage": "हनुमानजी की मूर्ति पर चढ़ाने के लिए"
+  },
+  {
+    "id": 9,
+    "name": "कालसर्प दोष पूजा थाली (त्र्यंबकेश्वर/उज्जैन हेतु)",
+    "price": 8001,
+    "image": "./src/assets/kaal-sarp-dosh-nivaran.jpeg",
+    "description": "शुद्ध सिंदूर हनुमान पूजन हेतु",
+    "usage": "हनुमानजी की मूर्ति पर चढ़ाने के लिए"
+  }
+  
+]

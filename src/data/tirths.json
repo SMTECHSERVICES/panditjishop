@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "काशी विश्वनाथ",
+    "location": "वाराणसी, उत्तर प्रदेश",
+    "stay": "धर्मशाला, होटल",
+    "contact": "9876543210",
+    "mapLink": "https://maps.google.com/?q=Kashi+Vishwanath+Temple",
+    "image": "/assets/kashi.jpg"
+  },
+  {
+    "id": 2,
+    "name": "त्र्यंबकेश्वर",
+    "location": "नासिक, महाराष्ट्र",
+    "stay": "गेस्ट हाउस, लॉज",
+    "contact": "9898989898",
+    "mapLink": "https://maps.google.com/?q=Trimbakeshwar+Temple",
+    "image": "/assets/trimbak.jpg"
+  },
+  {
+    "id": 3,
+    "name": "केदारनाथ",
+    "location": "उत्तराखंड",
+    "stay": "GMVN गेस्ट हाउस",
+    "contact": "8123456789",
+    "mapLink": "https://maps.google.com/?q=Kedarnath+Temple",
+    "image": "/assets/kedarnath.jpg"
+  }
+]
