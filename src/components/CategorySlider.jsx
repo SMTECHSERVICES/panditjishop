@@ -1,7 +1,7 @@
 const categories = [
-  { name: 'लक्ष्मी पूजन', image: './src/assets/laxmi.jpg' },
-  { name: 'विवाह पूजन', image: './src/assets/vivah.jpg' },
-  { name: 'हवन सामग्री', image: './src/assets/havan.jpg' },
+  { name: 'लक्ष्मी पूजन', image: './images/laxmi.jpg' },
+  { name: 'विवाह पूजन', image: './images/vivah.jpg' },
+  { name: 'हवन सामग्री', image: './images/havan.jpg' },
 ]
 
 export default function CategorySlider() {

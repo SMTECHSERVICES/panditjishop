@@ -1,4 +1,4 @@
-import heroImg from '../assets/pooja-thali.jpg'
+import heroImg from './images/pooja-thali.jpg'
 
 export default function HeroBanner() {
   return (
