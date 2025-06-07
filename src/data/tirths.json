@@ -1,29 +1,112 @@
 [
   {
     "id": 1,
-    "name": "काशी विश्वनाथ",
-    "location": "वाराणसी, उत्तर प्रदेश",
-    "stay": "धर्मशाला, होटल",
-    "contact": "9876543210",
-    "mapLink": "https://maps.google.com/?q=Kashi+Vishwanath+Temple",
-    "image": "/assets/kashi.jpg"
+    "name": "सोमनाथ",
+    "location": "वेरावल, गुजरात",
+    "stay": "सोमनाथ ट्रस्ट धर्मशाला",
+    "contact": "02876-231212",
+    "mapLink": "https://maps.google.com/?q=Somnath+Temple+Gujarat",
+    "image": "./images/somnath.jpg"
   },
   {
     "id": 2,
-    "name": "त्र्यंबकेश्वर",
-    "location": "नासिक, महाराष्ट्र",
-    "stay": "गेस्ट हाउस, लॉज",
-    "contact": "9898989898",
-    "mapLink": "https://maps.google.com/?q=Trimbakeshwar+Temple",
-    "image": "/assets/trimbak.jpg"
+    "name": "मल्लिकार्जुन",
+    "location": "श्रीशैलम, आंध्र प्रदेश",
+    "stay": "AP टूरिज़्म होटल",
+    "contact": "08524-288888",
+    "mapLink": "https://maps.google.com/?q=Mallikarjuna+Temple+Srisailam",
+    "image": "./images/mallikarjun.jpg"
   },
   {
     "id": 3,
+    "name": "महाकालेश्वर",
+    "location": "उज्जैन, मध्य प्रदेश",
+    "stay": "एमपी टूरिज़्म धर्मशाला",
+    "contact": "0734-2550563",
+    "mapLink": "https://maps.google.com/?q=Mahakaleshwar+Temple+Ujjain",
+    "image": "./images/mahakaleshwar.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ओंकारेश्वर",
+    "location": "खंडवा, मध्य प्रदेश",
+    "stay": "ओंकारेश्वर धर्मशाला",
+    "contact": "0733-450000",
+    "mapLink": "https://maps.google.com/?q=Omkareshwar+Temple",
+    "image": "./images/omkareshwar.jpg"
+  },
+  {
+    "id": 5,
+    "name": "वैद्यनाथ",
+    "location": "देवघर, झारखंड",
+    "stay": "बाबा बैजनाथ धर्मशाला",
+    "contact": "06432-232299",
+    "mapLink": "https://maps.google.com/?q=Baidhyanath+Temple+Deoghar",
+    "image": "./images/baidyanath.jpg"
+  },
+  {
+    "id": 6,
+    "name": "भीमाशंकर",
+    "location": "पुणे, महाराष्ट्र",
+    "stay": "MTDC रिज़ॉर्ट",
+    "contact": "02114-380019",
+    "mapLink": "https://maps.google.com/?q=Bhimashankar+Temple",
+    "image": "./images/bhimashankar.jpg"
+  },
+  {
+    "id": 7,
+    "name": "काशी विश्वनाथ",
+    "location": "वाराणसी, उत्तर प्रदेश",
+    "stay": "धर्मशाला / होटल",
+    "contact": "0542-2392629",
+    "mapLink": "https://maps.google.com/?q=Kashi+Vishwanath+Temple",
+    "image": "./images/kashi.jpg"
+  },
+  {
+    "id": 8,
+    "name": "त्र्यंबकेश्वर",
+    "location": "नासिक, महाराष्ट्र",
+    "stay": "पंचवटी लॉज",
+    "contact": "02594-234220",
+    "mapLink": "https://maps.google.com/?q=Trimbakeshwar+Temple",
+    "image": "./images/tryambakeshwar.jpg"
+  },
+  {
+    "id": 9,
     "name": "केदारनाथ",
     "location": "उत्तराखंड",
     "stay": "GMVN गेस्ट हाउस",
     "contact": "8123456789",
     "mapLink": "https://maps.google.com/?q=Kedarnath+Temple",
-    "image": "/assets/kedarnath.jpg"
+    "image": "./images/kedarnath.jpg"
+  },
+  {
+    "id": 10,
+    "name": "रामेश्वरम",
+    "location": "तमिलनाडु",
+    "stay": "TTDC होटल",
+    "contact": "04573-221349",
+    "mapLink": "https://maps.google.com/?q=Rameshwaram+Temple",
+    "image": "./images/rameshwaram.jpg"
+  },
+  {
+    "id": 11,
+    "name": "नागेश्वर",
+    "location": "द्वारका, गुजरात",
+    "stay": "होटल गोमती",
+    "contact": "02892-234567",
+    "mapLink": "https://maps.google.com/?q=Nageshwar+Temple+Dwarka",
+    "image": "./images/nageshwar.jpg"
+  },
+  {
+    "id": 12,
+    "name": "घृष्णेश्वर",
+    "location": "एलोरा, महाराष्ट्र",
+    "stay": "होटल कैलाश",
+    "contact": "02438-240061",
+    "mapLink": "https://maps.google.com/?q=Grishneshwar+Temple",
+    "image": "./images/grishneshwar.jpg"
   }
 ]
+
+
