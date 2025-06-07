@@ -26,17 +26,17 @@ export default function Footer() {
         <div>
           <h3 className="text-lg font-semibold text-white mb-3">🧰 सेवाएं</h3>
           <ul className="space-y-2 text-sm">
-            <li>🎯 पूजा थाली कस्टम</li>
-            <li>📖 पूजन विधि और चालीसा</li>
-            <li>🛕 तीर्थ दर्शन जानकारी</li>
-            <li>🔍 पंडित निर्देशिका</li>
+            <li><a href="/products" className="hover:text-white">🎯 पूजा थाली कस्टम</a></li>
+            <li><a href="/vidhi-chalisa" className="hover:text-white">📖 पूजन विधि और चालीसा</a></li>
+            <li><a href="/tirth-darshan" className="hover:text-white">🛕 तीर्थ दर्शन जानकारी</a></li>
+            <li><a href="/pandit-directory" className="hover:text-white">🔍 पंडित निर्देशिका</a></li>
           </ul>
         </div>
 
         {/* Contact */}
         <div>
           <h3 className="text-lg font-semibold text-white mb-3">📍 संपर्क जानकारी</h3>
-          <p className="text-sm">फोन: 09098273259</p>
+          <p className="text-sm">फोन: 08505959159</p>
           <p className="text-sm">ईमेल: info@panditjishop.com</p>
           <p className="text-sm">स्थान: भारत, PAN India</p>
         </div>

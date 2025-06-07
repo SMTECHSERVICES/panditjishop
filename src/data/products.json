@@ -66,6 +66,283 @@
     "image": "./images/kaal-sarp-dosh-nivaran.jpeg",
     "description": "शुद्ध सिंदूर हनुमान पूजन हेतु",
     "usage": "हनुमानजी की मूर्ति पर चढ़ाने के लिए"
+  },
+  {
+    "id": 1,
+    "name": "कलश (तांबे/मिट्टी)",
+    "price": 151,
+    "image": "./images/kalash.jpg",
+    "description": "पूजन में जल भरने हेतु कलश",
+    "usage": "मंगल कलश स्थापना में उपयोगी"
+  },
+  {
+    "id": 2,
+    "name": "जल (गंगाजल)",
+    "price": 51,
+    "image": "./images/gangajal.jpg",
+    "description": "पवित्र गंगाजल",
+    "usage": "शुद्धिकरण व अभिषेक के लिए"
+  },
+  {
+    "id": 3,
+    "name": "रोली (कुमकुम)",
+    "price": 21,
+    "image": "./images/roli.jpg",
+    "description": "शुद्ध रोली",
+    "usage": "तिलक करने व पूजन में उपयोगी"
+  },
+  {
+    "id": 4,
+    "name": "चावल (अक्षत)",
+    "price": 11,
+    "image": "./images/akshat.jpg",
+    "description": "शुद्ध अक्षत",
+    "usage": "पूजा सामग्री अर्पण में उपयोगी"
+  },
+  {
+    "id": 5,
+    "name": "नारियल",
+    "price": 41,
+    "image": "./images/nariyal.jpg",
+    "description": "पूजा हेतु नारियल",
+    "usage": "देवता को अर्पित करने के लिए"
+  },
+  {
+    "id": 6,
+    "name": "मौली (कलावा)",
+    "price": 10,
+    "image": "./images/mauli.jpg",
+    "description": "पूजन में उपयोगी मौली",
+    "usage": "हाथ पर बाँधने हेतु"
+  },
+  {
+    "id": 7,
+    "name": "सुपारी",
+    "price": 20,
+    "image": "./images/supari.jpg",
+    "description": "पूजन में रखी जाने वाली सुपारी",
+    "usage": "देवता के प्रतिनिधि के रूप में उपयोगी"
+  },
+  {
+    "id": 8,
+    "name": "लौंग व इलायची",
+    "price": 15,
+    "image": "./images/laung-elaichi.jpg",
+    "description": "शुद्ध लौंग व इलायची",
+    "usage": "हवन व नैवेद्य हेतु"
+  },
+  {
+    "id": 9,
+    "name": "पान के पत्ते",
+    "price": 10,
+    "image": "./images/paan.jpg",
+    "description": "ताजे पान के पत्ते",
+    "usage": "देवताओं को अर्पित करने के लिए"
+  },
+  {
+    "id": 10,
+    "name": "फूल",
+    "price": 30,
+    "image": "./images/flowers.jpg",
+    "description": "ताजे पूजा फूल",
+    "usage": "देवताओं को अर्पित करने हेतु"
+  },
+  {
+    "id": 11,
+    "name": "अगरबत्ती/धूपबत्ती",
+    "price": 25,
+    "image": "./images/agarbatti.jpg",
+    "description": "सुगंधित अगरबत्ती",
+    "usage": "पूजा में वातावरण शुद्ध करने के लिए"
+  },
+  {
+    "id": 12,
+    "name": "दीपक (घी/तेल)",
+    "price": 35,
+    "image": "./images/deepak.jpg",
+    "description": "पीतल/मिट्टी के दीपक",
+    "usage": "आरती व पूजन हेतु"
+  },
+  {
+    "id": 13,
+    "name": "कपूर",
+    "price": 20,
+    "image": "./images/kapoor.jpg",
+    "description": "शुद्ध कपूर",
+    "usage": "आरती व शुद्धिकरण हेतु"
+  },
+  {
+    "id": 14,
+    "name": "हल्दी",
+    "price": 15,
+    "image": "./images/haldi.jpg",
+    "description": "शुद्ध हल्दी पाउडर",
+    "usage": "पूजन में तिलक व अर्पण हेतु"
+  },
+  {
+    "id": 15,
+    "name": "फल",
+    "price": 51,
+    "image": "./images/fruits.jpg",
+    "description": "ताजे फल",
+    "usage": "नैवेद्य के रूप में अर्पित करने हेतु"
+  },
+  {
+    "id": 16,
+    "name": "मिठाई",
+    "price": 101,
+    "image": "./images/mithai.jpg",
+    "description": "शुद्ध मिठाई",
+    "usage": "प्रसाद हेतु"
+  },
+  {
+    "id": 17,
+    "name": "पंचामृत सामग्री",
+    "price": 51,
+    "image": "./images/panchamrit.jpg",
+    "description": "दूध, दही, घी, शहद, शक्कर मिश्रण",
+    "usage": "अभिषेक हेतु"
+  },
+  {
+    "id": 18,
+    "name": "तुलसीदल/बिल्वपत्र",
+    "price": 21,
+    "image": "./images/tulsi.jpg",
+    "description": "तुलसीदल या बिल्वपत्र",
+    "usage": "विष्णु/शिव पूजन हेतु"
+  },
+  {
+    "id": 19,
+    "name": "मंत्रपाठ की पुस्तक",
+    "price": 60,
+    "image": "./images/mantrapustak.jpg",
+    "description": "वेदमंत्र/स्तोत्र पाठ की पुस्तक",
+    "usage": "पूजन में मंत्रोच्चारण हेतु"
+  },
+  {
+    "id": 20,
+    "name": "पूजा आसन",
+    "price": 80,
+    "image": "./images/asan.jpg",
+    "description": "बैठने हेतु पूजा आसन",
+    "usage": "व्रती/पुजारी हेतु"
+  },
+  {
+    "id": 21,
+    "name": "घंटी",
+    "price": 75,
+    "image": "./images/ghanti.jpg",
+    "description": "पूजा घंटी",
+    "usage": "पूजन के समय ध्यान आकर्षण हेतु"
+  },
+  {
+    "id": 22,
+    "name": "चंदन",
+    "price": 30,
+    "image": "./images/chandan.jpg",
+    "description": "शुद्ध चंदन पाउडर",
+    "usage": "तिलक व मूर्ति पर अर्पण हेतु"
+  },
+  {
+    "id": 23,
+    "name": "हवन सामग्री",
+    "price": 101,
+    "image": "./images/havan.jpg",
+    "description": "संपूर्ण हवन सामग्री",
+    "usage": "हवन/यज्ञ में आहुतियों हेतु"
+  },
+  {
+    "id": 24,
+    "name": "लक्ष्मी पूजा थाली",
+    "price": 3001,
+    "image": "./images/laxmi-thali.jpg",
+    "description": "लक्ष्मी पूजन हेतु सजी थाली",
+    "usage": "दिवाली व लक्ष्मी पूजन में"
+  },
+  {
+    "id": 25,
+    "name": "नवग्रह यंत्र",
+    "price": 1101,
+    "image": "./images/navgrah-yantra.jpg",
+    "description": "नवग्रहों की शांति हेतु यंत्र",
+    "usage": "पूजा स्थल पर स्थापित करें"
+  },
+  {
+    "id": 26,
+    "name": "सूर्य यंत्र",
+    "price": 151,
+    "image": "./images/surya-yantra.jpg",
+    "description": "सूर्य देव के पूजन हेतु यंत्र",
+    "usage": "सूर्यवार को पूजा में रखें"
+  },
+  {
+    "id": 27,
+    "name": "चंद्र यंत्र",
+    "price": 151,
+    "image": "./images/chandra-yantra.jpg",
+    "description": "चंद्रमा की कृपा हेतु यंत्र",
+    "usage": "सोमवार को पूजन में रखें"
+  },
+  {
+    "id": 28,
+    "name": "मंगल यंत्र",
+    "price": 151,
+    "image": "./images/mangal-yantra.jpg",
+    "description": "मंगल दोष निवारण हेतु यंत्र",
+    "usage": "मंगलवार को पूजन में"
+  },
+  {
+    "id": 29,
+    "name": "बुध यंत्र",
+    "price": 151,
+    "image": "./images/budh-yantra.jpg",
+    "description": "बुद्धि व वाणी सुधार हेतु यंत्र",
+    "usage": "बुधवार को स्थापित करें"
+  },
+  {
+    "id": 30,
+    "name": "बृहस्पति यंत्र",
+    "price": 151,
+    "image": "./images/brihaspati-yantra.jpg",
+    "description": "गुरु ग्रह शांति हेतु यंत्र",
+    "usage": "गुरुवार को पूजन में"
+  },
+  {
+    "id": 31,
+    "name": "शुक्र यंत्र",
+    "price": 151,
+    "image": "./images/shukra-yantra.jpg",
+    "description": "शुक्र ग्रह शांति हेतु यंत्र",
+    "usage": "शुक्रवार को पूजन करें"
+  },
+  {
+    "id": 32,
+    "name": "शनि यंत्र",
+    "price": 151,
+    "image": "./images/shani-yantra.jpg",
+    "description": "शनि दोष निवारण हेतु यंत्र",
+    "usage": "शनिवार को शनि पूजा में"
+  },
+  {
+    "id": 33,
+    "name": "राहु यंत्र",
+    "price": 151,
+    "image": "./images/rahu-yantra.jpg",
+    "description": "राहु दोष निवारण हेतु यंत्र",
+    "usage": "राहु काल में पूजन करें"
+  },
+  {
+    "id": 34,
+    "name": "केतु यंत्र",
+    "price": 151,
+    "image": "./images/ketu-yantra.jpg",
+    "description": "केतु शांति हेतु यंत्र",
+    "usage": "केतु दोष से राहत हेतु"
   }
-  
 ]
+
+
+
+
+  
+

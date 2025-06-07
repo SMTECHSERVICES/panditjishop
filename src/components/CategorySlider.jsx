@@ -1,5 +1,8 @@
 const categories = [
+  { name: 'गणेश पूजन', image: './images/ganeshpuja.jpg' },
   { name: 'लक्ष्मी पूजन', image: './images/laxmi.jpg' },
+  { name: 'नवग्रह शांति पूजन', image: './images/navagrahashantipuja.jpg' },
+  { name: 'सत्यनारायण कथा पूजन', image: './images/stayanarayanpooja.jpg' },
   { name: 'विवाह पूजन', image: './images/vivah.jpg' },
   { name: 'हवन सामग्री', image: './images/havan.jpg' },
 ]
